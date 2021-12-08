@@ -1,0 +1,6 @@
+kind: Namespace
+apiVersion: v1
+metadata:
+  name: open5gs-k8s
+  labels:
+    name: open5gs-k8s
